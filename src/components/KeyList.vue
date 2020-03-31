@@ -177,7 +177,7 @@ export default {
     cursor: pointer;
     color: #292f31;
     font-size: 82%;
-    line-height: 1.6;
+    line-height: 2;
     /*margin-right: 3px;*/
     padding-left: 6px;
   }
